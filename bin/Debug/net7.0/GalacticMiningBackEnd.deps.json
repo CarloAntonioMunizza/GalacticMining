@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "GalacticMining/1.0.0": {
+      "GalacticMiningBackEnd/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "7.0.9",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
-          "GalacticMining.dll": {}
+          "GalacticMiningBackEnd.dll": {}
         }
       },
       "Microsoft.AspNetCore.OpenApi/7.0.9": {
@@ -76,7 +76,7 @@
     }
   },
   "libraries": {
-    "GalacticMining/1.0.0": {
+    "GalacticMiningBackEnd/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

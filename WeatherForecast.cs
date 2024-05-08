@@ -1,4 +1,4 @@
-namespace GalacticMining;
+namespace GalacticMiningBackEnd;
 
 public class WeatherForecast
 {

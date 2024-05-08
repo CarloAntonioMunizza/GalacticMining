@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace GalacticMining.Controllers;
+namespace GalacticMiningBackEnd.Controllers;
 
 [ApiController]
 [Route("[controller]")]
